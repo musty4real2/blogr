@@ -818,17 +818,16 @@ p {
 
         height: 80vh;
     }
-
+    .future-content-sec .future {
+        margin-left: -1rem;
+        width: 100%;
+    }
     .infra .illustration-image {
         width: 100%;
         position: relative;
         height: 25rem;
     }
-    .future-content-sec .future {
-        margin-left: -1rem;
-        width: 100%;
-    }
-}
+
     .infra .illustration-image img {
         position: absolute;
         width: 90%;
@@ -848,3 +847,5 @@ p {
         text-align: center;
     }
 
+   
+}
